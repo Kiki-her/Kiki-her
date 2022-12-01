@@ -35,8 +35,6 @@ Love "Laziness".
         <img src="https://user-images.githubusercontent.com/25181517/121406389-6267a300-c95e-11eb-8d67-f1e22afe8aea.png" width="48" height="48" alt="Swift" />
       <br>Swift
     </td>
-    </tr>
-    <tr>
     <td align="center"  width="96">
         <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />
       <br>HTML
@@ -49,6 +47,8 @@ Love "Laziness".
         <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="bootstrap" />
       <br>Bootstrap
     </td>
+    </tr>
+    <tr>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" />
       <br>PostgreSQL
@@ -62,8 +62,6 @@ Love "Laziness".
         <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="mysql" />
       <br>MySQL
     </td>
-    </tr>
-    <tr>
     <td align="center"  width="96">
         <img src="https://user-images.githubusercontent.com/25181517/192107854-765620d7-f909-4953-a6da-36e1ef69eea6.png" width="48" height="48" alt="HTTP" />
       <br>HTTP
@@ -116,8 +114,6 @@ Love "Laziness".
         <img src="https://user-images.githubusercontent.com/25181517/201476472-d2f5f644-cfc9-43e5-96d3-c8f40f18b5cb.png" width="48" height="48" alt="Chai" />
       <br>Chai
     </td>
-    </tr>
-    <tr>
     <td align="center"  width="96">
         <img src="https://user-images.githubusercontent.com/25181517/201476630-f47cfff6-fdee-4ee1-9092-1793b71b1ca3.png" width="48" height="48" alt="Mocha" />
       <br>Mocha
