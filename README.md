@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![github-contribution-grid-snake](https://raw.githubusercontent.com/Kiki-her/Kiki-her/master/img/snake.svg) 
+![github-contribution-grid-snake](https://raw.githubusercontent.com/Kiki-her/Kiki-her/main/img/snake.svg) 
 
 <!--
 **Kiki-her/Kiki-her** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
