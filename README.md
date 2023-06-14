@@ -118,7 +118,21 @@ Love "Laziness".
         <img src="https://user-images.githubusercontent.com/25181517/201476630-f47cfff6-fdee-4ee1-9092-1793b71b1ca3.png" width="48" height="48" alt="Mocha" />
       <br>Mocha
     </td>
+    <td align="center"  width="96">
+        <img src="https://docs.amplify.aws/assets/logo-dark.svg" alt="amplify" width="40" height="40"/> 
+      <br>Amplify
+    </td>
+    <td align="center"  width="96">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> 
+      <br>AWS
+    </td>
     </tr>
+    <tr>
+     <td align="center"  width="96">
+       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+       <br>Python
+   </td>
+   </tr>
 </table>
 
 ## Most used languages
