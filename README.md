@@ -1,6 +1,6 @@
 <img align="center" width="100%" src="./img/Home-img.png" alt="Happy Hacking!!" />
 
-# Hi there 👋 I'm 　 Kiki-her Sloth 🦥
+# Hi there 👋 I'm Kiki-her Sloth 🦥
 
 The sloth is full-stack engineering on the tree 🌳
 Love "Laziness".
