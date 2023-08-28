@@ -1,13 +1,15 @@
-## Hi there 👋 I'm 　 Kiki-her Sloth 🦥
+<img align="center" width="100%" src="./img/Home-img.png" alt="Happy Hacking!!" />
+
+# Hi there 👋 I'm 　 Kiki-her Sloth 🦥
 
 The sloth is full-stack engineering on the tree 🌳
 Love "Laziness".
 
-### Look My Active Snake 🐍
+## Look My Active Snake 🐍
 
 ![Snake](https://raw.githubusercontent.com/Kiki-her/Kiki-her/output/github-contribution-grid-snake-dark.svg)
 
-### My favorite tools and technologies 😎
+## My favorite tools and technologies 😎
 
 <table>
     <tr>
