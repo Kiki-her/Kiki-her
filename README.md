@@ -137,9 +137,6 @@ Love "Laziness".
    </tr>
 </table>
 
-## Most used languages
-
-![](https://github-stats-evirunurm.vercel.app/api/languages.js?username=Kiki-her)
 
 <!--
 **Kiki-her/Kiki-her** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
